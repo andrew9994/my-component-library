@@ -5,6 +5,7 @@
   "author": "",
   "license": "ISC",
   "workspaces": [
-    "packages/my-components"
+    "packages/my-components",
+    "packages/storybook"
   ]
 }
